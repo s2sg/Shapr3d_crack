@@ -6,3 +6,5 @@ There are several ways to unlock trial version of Shapr3d app. Please check dire
 
 Patches are not result of full understanding of code logic it is more result of quick solutution to get unlock state.
 In most cases i use "metode Macajewa" method as first quick source of results. Always works.
+
+когда же уже автор порадует всех новым патчем, очень ждем
